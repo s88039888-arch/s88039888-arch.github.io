@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sweethome.mansoura",
+        "sha256_cert_fingerprints": ["00:81:59:C5:39:D7:61:23:7F:56:0E:70:A9:8E:B4:EF:5D:EC:6F:B1:5D:F8:14:C7:02:89:12:17:8A:BD:65:9F"]
+      }
+    }]
